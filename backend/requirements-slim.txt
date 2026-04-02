@@ -1,0 +1,5 @@
+# Philippine Law Assistant - Slim dependencies (Python 3.14 compatible, no Rust build)
+# Use: pip install -r requirements-slim.txt
+flask>=3.0.0
+flask-cors>=4.0.0
+requests>=2.31.0
