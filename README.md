@@ -2,7 +2,10 @@
 
 [`philippine_law_assistant_colab.ipynb`](philippine_law_assistant_colab.ipynb) runs the same **RAG + law tutor prompt** as the project backend using **GPU inference** in [Google Colab](https://colab.research.google.com/).
 
-**Open in Colab:** upload this notebook or use *File → Upload notebook* after cloning this repo.
+**Open in Colab (while signed in as your Google account, e.g. daveyous07@gmail.com):**  
+[Open `philippine_law_assistant_colab.ipynb` in Colab](https://colab.research.google.com/github/daveyous07/phillipinelawai/blob/main/philippine_law_assistant_colab.ipynb)
+
+You can also upload the `.ipynb` via *File → Upload notebook* in Colab.
 
 ## Backend code (required)
 
