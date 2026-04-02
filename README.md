@@ -12,3 +12,7 @@ This repo contains **`backend/`** (Python `app/` package with prompts + `rag_sim
 ## Model
 
 Default Hugging Face model is `Qwen/Qwen2.5-1.5B-Instruct`. Override with env `PHLAW_MODEL_ID` if needed.
+
+## Phone app
+
+Run **section 6** in the notebook: it prints a **`https://….trycloudflare.com`** URL (no account). Paste that into the Android app **Settings → Backend API URL**.
